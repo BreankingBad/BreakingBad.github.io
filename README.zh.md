@@ -147,7 +147,7 @@ friends: [
 ```
 
 
-#### Keynote Layout
+#### Keynote  Layout
 
 HTML5幻灯片的排版：
 
